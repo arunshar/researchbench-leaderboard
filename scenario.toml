@@ -2,7 +2,7 @@
 
 [green]
 name = "ResearchToolBench"
-agentbeats_id = 019c1713-c5d3-7d60-974f-14a790d031bb
+agentbeats_id = "019c1713-c5d3-7d60-974f-14a790d031bb"
 image = "ghcr.io/arunshar/researchbench-green:latest"
 port = 8000
 env = {OPENAI_API_KEY = "${OPENAI_API_KEY}" }
